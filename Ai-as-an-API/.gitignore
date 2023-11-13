@@ -162,4 +162,5 @@ cython_debug/
 bin/
 etc/
 include/
-share
+share/
+datasets/zips
